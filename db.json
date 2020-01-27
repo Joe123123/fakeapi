@@ -1,5 +1,7 @@
 {
-  "getList": [
+  "demoReduxList": [
     "morning 9am", "afternoon 3pm", "evening 11pm"
-  ]
+  ],
+  'demoMyPendingList':["morning 1am", "afternoon 2pm", "evening 10pm"],
+  'demoMyDoneList':["morning 4am", "afternoon 5pm", "evening 11pm"],
 }
